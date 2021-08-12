@@ -26,4 +26,3 @@ class <%= name %> extends Component {
 export default <%= name %>
 
 
-
