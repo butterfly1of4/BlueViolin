@@ -1,3 +1,19 @@
 .LandingPage {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100vw;
+    width: 100vw;
+    margin: auto;
+}
 
+.day{
+    background-color: lightskyblue;
+}
+
+.night {
+    background-color: black;
+}
+
+.button {
+    margin-top: 50%;
 }

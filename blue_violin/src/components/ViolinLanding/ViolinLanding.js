@@ -10,7 +10,7 @@ const ViolinLanding = (props) => {
 
   return(
     <div className={classList}>
-      ViolinLanding
+
     </div>
   );
 }
